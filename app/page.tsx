@@ -1,3 +1,20 @@
+import Header from "@/components/Header";
+
 export default function Home() {
-  return <main>Hello world</main>;
+  return (
+    <main>
+      <Header />
+      {/* HERO */}
+
+      {/* ABOUT */}
+
+      {/* EXPERIENCE */}
+
+      {/* SKILLS */}
+
+      {/* PROJECTS */}
+
+      {/* CONTECT ME */}
+    </main>
+  );
 }
